@@ -1,0 +1,16 @@
+C:\homework2\task10\obj\Debug\net6.0\task10.GlobalUsings.g.cs
+C:\homework2\task10\obj\Debug\net6.0\task10.csproj.AssemblyReference.cache
+C:\homework2\task10\obj\Debug\net6.0\task10.GeneratedMSBuildEditorConfig.editorconfig
+C:\homework2\task10\obj\Debug\net6.0\task10.AssemblyInfoInputs.cache
+C:\homework2\task10\obj\Debug\net6.0\task10.AssemblyInfo.cs
+C:\homework2\task10\obj\Debug\net6.0\task10.csproj.CoreCompileInputs.cache
+C:\homework2\task10\bin\Debug\net6.0\task10.exe
+C:\homework2\task10\bin\Debug\net6.0\task10.deps.json
+C:\homework2\task10\bin\Debug\net6.0\task10.runtimeconfig.json
+C:\homework2\task10\bin\Debug\net6.0\task10.dll
+C:\homework2\task10\bin\Debug\net6.0\ref\task10.dll
+C:\homework2\task10\bin\Debug\net6.0\task10.pdb
+C:\homework2\task10\obj\Debug\net6.0\task10.dll
+C:\homework2\task10\obj\Debug\net6.0\ref\task10.dll
+C:\homework2\task10\obj\Debug\net6.0\task10.pdb
+C:\homework2\task10\obj\Debug\net6.0\task10.genruntimeconfig.cache
